@@ -1,0 +1,8 @@
+{
+  "name": "repro-mastra-semantic-markdown-eof",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node reproduce.mjs" },
+  "dependencies": { "@mastra/rag": "2.8.2" }
+}
